@@ -1,4 +1,4 @@
-# Word Game in React and Nodejs
+# Crypto Dashboard in React and Nodejs
 
 This project is in support of the tutorial found [here](https://www.youtube.com/watch?v=_itMdiSc0KI)
 
